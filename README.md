@@ -12,13 +12,15 @@ You can click the Preview link to take a look at your changes.
 
 # 👨‍💻 About Me:
 ---
-- 🔭 I’m currently working on **my summer Internsip at EBL**
+- 🔭 I’m currently working on **as an Undergraduate Research Assistant at Data Mining Lab, UTD**
+  
+- 🤝 I recently completed **my Summer 2025 internship as a SWE at Eastern Bank PLC (EBL)**
 
 - 🌱 I’m currently learning **Mobile and IOS development, also cloud computing**
 
 - 👯 I’m looking to collaborate on **open source AI/ML projects**
 
-- 🤝 I’m looking for **Internships in SWE/SDE roles and looking for research oppurtunities on AI/ML**
+- 🤝 I’m looking for **Internships in SWE/SDE roles and research oppurtunities on AI/ML/DL**
 
 - 👨‍💻 All of my hackathon projects are available at [devpost.com/notzabir](devpost.com/notzabir)
 
