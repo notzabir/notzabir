@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋 I'm Md Ahnaf Al Zabir</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=750&lines=I+am+a+CS+undergrad+at+the+University+of+Texas+at+Dallas;An+Aspiring+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=750&lines=I+am+a+CS+undergrad+at+the+University+of+Texas+at+Dallas;An+Aspiring+AI+/+ML+Engineer" alt="Typing SVG" />
 </p>
 <!---
 notzabir/notzabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
