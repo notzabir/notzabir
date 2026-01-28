@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 # 👨‍💻 About Me:
 ---
-- 🔭 I’m currently working as a ** Junior Mentor at UTDesign, EPICS**
+- 🔭 I’m currently working as a **Junior Mentor at UTDesign, EPICS**
   
-- 🌱 I recently worked as a **Undergraduate Research Assistant** at **UTD's Data Mining Lab**
+- 🌱 I recently worked as an **Undergraduate Research Assistant** at **UTD's Data Mining Lab**
 
 - 🤝 I recently completed **my Summer 2025 internship as a SWE at Eastern Bank PLC (EBL)**
 
