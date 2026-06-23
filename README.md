@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 # 👨‍💻 About Me:
 ---
+- 🔭 I’m currently working as an **AI Engineer** at **UTD OIT**
+
 - 🔭 I’m currently working as a **Junior Mentor at UTDesign, EPICS**
   
 - 🌱 I recently worked as an **Undergraduate Research Assistant** at **UTD's Data Mining Lab**
